@@ -1,0 +1,14 @@
+Kategori,Detail,Provinsi_Luas,Estimasi_Kerugian_Rp,Satuan,Sumber
+Rumah Warga,Rumah rusak/terendam,Aceh,6280000000000,unit,Kontan / KI Rimau
+Pertanian,Sawah,Aceh,1164000000000,ha,AcehProv
+Pertanian,Jagung,Aceh,,ha,AcehProv
+Pertanian,"Hortikultura (cabai, bawang, kentang)",Aceh,,ha,AcehProv
+Perkebunan,"Kakao, Kelapa, Kopi",Aceh,,ha,AcehProv
+Kerugian Nasional,"Luas wilayah terdampak Aceh, Sumut dan Sumbar","Aceh-Sumut-Sumbar",68670000000000,Rp,Kompas.com / Celios
+Kerugian Langsung Daerah,"Aceh, Sumut, Sumbar","Aceh-Sumut-Sumbar",2200000000000,Rp,NU Online / Celios
+Kerugian Per Provinsi,Aceh,Aceh,2040000000000,Rp,Kompas.com / Celios
+Kerugian Per Provinsi,Sumatera Utara,Sumut,2070000000000,Rp,Kompas.com / Celios
+Kerugian Per Provinsi,Sumatera Barat,Sumbar,2010000000000,Rp,Kompas.com / Celios
+Kerugian Per Provinsi,Jambi,Jambi,2000000000000,Rp,Kompas.com / Celios
+Kerugian Per Provinsi,Riau,Riau,2000000000000,Rp,Kompas.com / Celios
+Kerugian Per Provinsi,Sumatera Selatan,Sumatera Selatan,2000000000000,Rp,Kompas.com / Celios
